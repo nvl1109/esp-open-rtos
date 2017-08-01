@@ -28,3 +28,6 @@
 [submodule "extras/crc_generic/crc_lib"]
 	path = extras/crc_generic/crc_lib
 	url = https://github.com/Zaltora/crc_generic_lib.git
+[submodule "examples/wifi_button"]
+	path = examples/wifi_button
+	url = git@bitbucket.org:nvl1109/wifi_button_esp_rtos.git
